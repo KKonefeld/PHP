@@ -1,0 +1,19 @@
+
+.col-xl-6{
+  margin-top: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3E57B8;
+  padding: 1vw;
+}
+
+.ziel{
+  background-color: #6EB825;
+  border-color: black;
+}
+.ziel:hover{
+  background-color: #1D37B8;
+}
+label, h1{
+  color: antiquewhite;
+}

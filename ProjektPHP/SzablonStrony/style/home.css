@@ -1,0 +1,71 @@
+
+/* stylizacja tylko dla home */
+
+/* prawa strona */
+.kursmenu, .fiszka{
+  margin-top: 10vh;
+/*  background-color: #3E57B8; */
+  border: 1px solid black;
+  padding-bottom: 1vh;
+  color: antiquewhite;
+  z-index: 55;
+
+}
+.container{
+  z-index: 54;
+    background-color: #B5D7FF;
+}
+.fiszka{
+  height: 45vh;
+  background-color: #3E57B8;
+
+}
+/* menu po lewej */
+.kursmenu{
+  border: 0;
+}
+.wyborkursu{
+  border-bottom: 2px solid #FF8259;
+}
+.navbar-brand{
+  color: antiquewhite;
+}
+.nav-link{
+  color: antiquewhite;
+  border-bottom: 2px solid #3E57B8;
+}
+.nav-link:hover, .navbar-brand:hover{
+  color : #6EB825;
+}
+.nav-link:hover{
+  border-bottom: 2px solid #FF8259;
+}
+.wyborkursu{
+  background-color: #3E57B8;
+}
+.page-footer{
+  z-index: 6;
+}
+.naglowek{
+  color: antiquewhite;
+  font-size: x-large;
+}
+.powitanie{
+  color: antiquewhite;
+  background-color: #3E57B8;
+}
+.niewiem{
+  background-color: red;
+  margin-top: 2%;
+  margin-left: 0%;
+}
+.sprawdz{
+  background-color: #6EB825;
+  margin-top: 2%;
+}
+.wyloguj{
+  color: red;
+}
+.wyloguj:hover{
+  color: red;
+}
